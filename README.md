@@ -1,6 +1,6 @@
 # Simple Autoencoder MNIST
 
-Simple autoencoder on MNIST dataset.
+Simple autoencoder(a type of artificial neural network) on MNIST dataset.
 
 Python 3.7.3
 
